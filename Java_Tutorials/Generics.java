@@ -1,4 +1,4 @@
-
+package Java_Tutorials ;
 class MyGeneric<T1 , T2> {
     int a ;
     T1 b;
